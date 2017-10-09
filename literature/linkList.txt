@@ -1,0 +1,13 @@
+http://www.instructables.com/id/360-LIDAR-Module/
+https://www.sparkfun.com/products/14032
+https://github.com/garmin/LIDARLite_v3_Arduino_Library
+https://spectrum.ieee.org/automaton/robotics/robotics-hardware/sweep-lidar-for-robots-and-drones
+
+Agenda:
+1) Pros and cons of different Lidar sensors
+2) Upgradability
+3) Compatibility with other data streams e.g. obd etc
+
+http://www.cowfishstudios.com/blog/obd-pi-raspberry-pi-displaying-car-diagnostics-obd-ii-data-on-an-aftermarket-head-unit
+
+http://python-obd.readthedocs.io/en/latest/
